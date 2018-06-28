@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+
+        ></item>
+    <item
+        android:id="@+id/radio"
+        android:icon="@drawable/ic_radio"
+        android:title="Radio"
+
+        ></item>
+    <item
+        android:id="@+id/browse"
+        android:icon="@drawable/ic_browse"
+        android:title="Browse"
+        ></item>
+    <item
+        android:id="@+id/mymusic"
+        android:icon="@drawable/ic_mymusic"
+        android:title="My Music"
+        ></item>
+</menu>
